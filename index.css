@@ -1,0 +1,29 @@
+body {
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,119,29,1) 50%, rgba(252,176,69,1) 100%);
+    align-items: center;
+    text-align: center;
+    
+}
+
+footer {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 7%, rgba(179,82,120,1) 24%, rgba(230,108,57,1) 44%, rgba(253,119,29,1) 55%, rgba(252,166,62,1) 65%, rgba(252,166,62,1) 75%, rgba(252,166,62,1) 91%, rgba(252,176,69,1) 100%);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.redes-sociais a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.redes-sociais img {
+    width: 70px; /* Ajuste o tamanho conforme necessário */
+    height: 70px;
+}
